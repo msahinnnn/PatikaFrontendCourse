@@ -1,0 +1,41 @@
+.content {
+    max-width: 500px;
+    margin: auto;
+  }
+#firmaad{
+    font-size: 48px;
+    color: purple;
+}
+.navcontent {
+    max-width: 500px;
+    margin: auto;
+    font-size: 24px;
+    color: rgb(0, 204, 255);
+  }
+.artc{
+    font-size: 24px;
+    color: rgb(1, 70, 87);
+    max-width: 500px;
+    margin: auto;
+}
+.artc2{
+    font-size: 16px;
+    color: rgb(141, 0, 0);
+    max-width: 500px;
+    margin: auto;
+}
+p{
+    font-size: 24px;
+    color: rgb(0, 0, 0);
+}
+li{
+    color: black;
+    font-size: 16px;
+}
+ul{
+    list-style-position: inside;
+}
+.imgg{
+    width: 300;
+    height: 400;
+}
