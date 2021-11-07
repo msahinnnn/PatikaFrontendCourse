@@ -1,0 +1,41 @@
+
+.container{
+    width: 90%;
+    margin-left: 100px ;
+    text-align: center;
+    
+}
+.search{
+    background: #e9e8e8;
+    padding: 2px;
+    text-align: center;
+}
+.left-bar{
+    height: 80px;
+    padding: 2px;
+    text-align: center;
+    margin-bottom: 100px;
+    width: 600px;
+    margin-right: 3px;
+    float: left;
+    background-color: rgb(140, 250, 241);
+}
+.mid-bar{
+    height: 80px;
+    padding: 2px;
+    text-align: center;
+    width: 350px;
+    margin-bottom: 100px;
+    margin-right: 3px;
+    float: left;
+    background-color: rgb(95, 221, 215);
+}
+.right-bar{
+    height: 80px;
+    padding: 2px;
+    text-align: center;
+    margin-bottom: 100px;
+    width: 730px;
+    float: left;
+    background-color: rgb(11, 161, 161);
+}
